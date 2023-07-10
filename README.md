@@ -1,7 +1,4 @@
-# Pikachu
-
-HCMUS - CSC10002 - The Matching Game
-
+# HCMUS - CSC10002 - The Matching Game
 | Name               | Student ID |
 | ------------------ | ---------- |
 | Phan Vo Minh Tue   | 22127440   |
